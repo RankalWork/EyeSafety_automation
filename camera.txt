@@ -1,0 +1,5 @@
+camera model: DCC1545M
+download drivers from: https://www.thorlabs.com/software_pages/ViewSoftwarePage.cfm?Code=ThorCam (32-bit for py 2.7)
+driver installation will copy the files to: C:\Windows\System32\.
+
+
